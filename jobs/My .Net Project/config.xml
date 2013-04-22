@@ -52,7 +52,7 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.plugins.msbuild.MsBuildBuilder plugin="msbuild@1.16">
-      <msBuildName>MS Build 4.0</msBuildName>
+      <msBuildName>.Net 4.0</msBuildName>
       <msBuildFile>CI-Sample.sln</msBuildFile>
       <cmdLineArgs></cmdLineArgs>
       <buildVariablesAsProperties>true</buildVariablesAsProperties>
